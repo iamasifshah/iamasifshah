@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on good software that can use by anyone for free
-- 📫 contact me @iamasifshah
+- 📫 contact me ig @iamasifshah
 
 <!---
 iamasifshah/iamasifshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
